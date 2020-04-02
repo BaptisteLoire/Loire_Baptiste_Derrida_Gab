@@ -1,6 +1,5 @@
 # Loire_Baptiste_Derrida_Gab
 
 
-
-Changement seulement dans readm-me edits
+Dans cette branche, je vais demander à Gabriel de venir commenter.
 
